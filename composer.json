@@ -1,0 +1,14 @@
+{
+    "name": "song2013/top-sdk",
+    "description": "top-sdk for tmall",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "files": [
+            "src/TopSdk.php"
+        ]
+    }
+}
